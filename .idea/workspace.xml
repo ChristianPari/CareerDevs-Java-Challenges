@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1j7OAubNBqoo7uz1kcThJCoC7yB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,5 +30,15 @@
       <updated>1603151523706</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="159" key="FileChooserDialogImpl" timestamp="1604963828348">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="159" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1604963828348" />
+    <state x="360" y="38" key="new project wizard" timestamp="1604963862720">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="360" y="38" key="new project wizard/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1604963862720" />
   </component>
 </project>
