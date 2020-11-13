@@ -32,13 +32,15 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="159" key="FileChooserDialogImpl" timestamp="1605049140902">
+    <state x="549" y="159" key="FileChooserDialogImpl" timestamp="1605222575112">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="549" y="159" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1605222575112" />
     <state x="549" y="159" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1605049140902" />
-    <state x="360" y="38" key="new project wizard" timestamp="1605049142364">
+    <state x="360" y="38" key="new project wizard" timestamp="1605222576690">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="360" y="38" key="new project wizard/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1605222576690" />
     <state x="360" y="38" key="new project wizard/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1605049142364" />
   </component>
 </project>
