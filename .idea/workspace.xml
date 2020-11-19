@@ -34,6 +34,7 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1604179131342">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -46,5 +47,17 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="360" y="38" key="new project wizard/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1604008023355" />
+=======
+    <state x="549" y="159" key="FileChooserDialogImpl" timestamp="1605222575112">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="159" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1605222575112" />
+    <state x="549" y="159" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1605049140902" />
+    <state x="360" y="38" key="new project wizard" timestamp="1605222576690">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="360" y="38" key="new project wizard/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1605222576690" />
+    <state x="360" y="38" key="new project wizard/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1605049142364" />
+>>>>>>> 995421d17ce181608563508c8de2cc8e310b692d
   </component>
 </project>
