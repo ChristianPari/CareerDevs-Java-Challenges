@@ -4,22 +4,24 @@ public class Utility {
   // VERSION 1
   public void convertHoursV1(
     int hours,
+    int mins,
     int hoursPassed
   ) {
     int newTime = (hours + hoursPassed) % 24;
-    System.out.println(newTime + ":00");
+    System.out.println(newTime + ":" + (mins < 10 ? "0" + mins : mins));
   }
 
   // VERSION 2
   public void convertHoursV2(
     int hours,
+    int mins,
     int hoursPassed
   ) {
     int newTime = (hours + hoursPassed) % 24;
     if (newTime < 0) {
       newTime = 24 + newTime;
     }
-    System.out.println(newTime + ":00");
+    System.out.println(newTime + ":" + (mins < 10 ? "0" + mins : mins));
   }
 
   // VERSION 3

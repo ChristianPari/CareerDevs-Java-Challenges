@@ -5,9 +5,9 @@ public class Main {
   public static void main(String[] args) {
     Utility util = new Utility();
     // VERSION 1
-    util.convertHoursV1(21, 36);
+    util.convertHoursV1(21, 0, 36);
     // VERSION 2
-    util.convertHoursV2(1, -5);
+    util.convertHoursV2(1, 15, -5);
     // VERSION 3
     util.convertMinsV1(21, 00, 147);
     // VERSION 4
