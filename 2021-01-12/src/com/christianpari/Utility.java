@@ -36,7 +36,8 @@ public class Utility {
       negativeMins = true;
     }
     int addedHours = minsPassed / 60;
-    minsPassed -= (60 * addedHours);
+//    minsPassed -= (60 * addedHours);
+    minsPassed = minsPassed % 60;
     mins = negativeMins ? mins - minsPassed : mins + minsPassed;
     if (mins > 59) {
       addedHours += 1;
@@ -83,7 +84,8 @@ public class Utility {
       negativeMins = true;
     }
     int addedHours = minsPassed / 60;
-    minsPassed -= (60 * addedHours);
+//    minsPassed -= (60 * addedHours);
+    minsPassed = minsPassed % 60;
     mins = negativeMins ? mins - minsPassed : mins + minsPassed;
     if (mins > 59) {
       addedHours += 1;
@@ -140,7 +142,8 @@ public class Utility {
       negativeMins = true;
     }
     int addedHours = minsPassed / 60;
-    minsPassed -= (60 * addedHours);
+//    minsPassed -= (60 * addedHours);
+    minsPassed = minsPassed % 60;
     mins = negativeMins ? mins - minsPassed : mins + minsPassed;
     if (mins > 59) {
       addedHours += 1;
